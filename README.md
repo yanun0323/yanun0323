@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1 style="display:inline-block">Hello there, I'm Yanun</h1>
+<h3 style="display:inline-block">Hello there, I'm Yanun</h3>
 <img style="display:inline-block" alt="" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>
 
 <!-- About me -->
@@ -13,11 +13,11 @@
 
 </div>
 <br/>
-<h1 style="display:inline-block">Product</h1><div>
+<h3>Product</h3><div>
 
-<div style="background:rgba(35,35,35); padding:7px; border-radius:15px">
+<div style="background:rgb(35,35,35); padding:7px; border-radius:15px; width:400px; padding: 15px">
 <h3>DevStat</h3>
-<p>A simple menubar tool to translate time format for MacOS.</p>
+<p>Menubar tool to translate time format for MacOS.</p>
 <img src="https://github.com/yanun0323/DevStat/blob/master/image.png?raw=true" height="300px"><br/><br/>
 
 <a href="https://github.com/yanun0323/DevStat/releases/download/1.1.5/DevStat-1.1.5.zip"><img alt="" src="https://img.shields.io/badge/Download-v1.1.5-orange"/></a>&nbsp;
