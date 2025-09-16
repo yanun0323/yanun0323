@@ -1,6 +1,6 @@
 <div align=center>
 
-<h3 style="display:inline-block">Hello there, I'm Yanun</h3>
+<h1 style="display:inline-block">Hello there, I'm Yanun</h1>
 <img style="display:inline-block" alt="" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>
 
 <!-- About me -->
@@ -13,9 +13,9 @@
 
 </div>
 <br/>
-<h3 style="display:inline-block">Product</h3><div>
+<h1 style="display:inline-block">Product</h1><div>
 
-<div style="background:rgba(125,125,125,0.1); padding:7px; border-radius:15px">
+<div style="background:rgba(35,35,35); padding:7px; border-radius:15px">
 <h3>DevStat</h3>
 <p>A simple menubar tool to translate time format for MacOS.</p>
 <img src="https://github.com/yanun0323/DevStat/blob/master/image.png?raw=true" height="300px"><br/><br/>
@@ -36,7 +36,8 @@
 <a href="https://github.com/yanun0323"><img alt="Gmail" src="https://img.shields.io/github/followers/yanun0323?label=follow&style=social" /></a>&nbsp;
 <br/>
 
-<img style="display=inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanun0323&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=10,904e65,904e95&title_color=fff&text_color=fff&hide_title=false">
+<img style="display=inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanun0323&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=10,904e65,904e95&title_color=fff&text_color=fff&hide_title=false"><br/>
+
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="yanun" data-color="#FF5F5F" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
