@@ -15,7 +15,7 @@
 <br/>
 <h3>Product</h3><div>
 
-<div style="background-color:#252525; padding:7px; border-radius:15px; width:400px; padding: 15px">
+<div style="background-color:#252525; padding:7px; border: 1px solid gray; border-radius:15px; width:400px; padding: 15px">
 <h3>DevStat</h3>
 <p>Menubar tool to translate time format for MacOS.</p>
 <img src="https://github.com/yanun0323/DevStat/blob/master/image.png?raw=true" height="300px"><br/><br/>
@@ -36,10 +36,10 @@
 <a href="https://github.com/yanun0323"><img alt="Gmail" src="https://img.shields.io/github/followers/yanun0323?label=follow&style=social" /></a>&nbsp;
 <br/>
 
-<img style="display=inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanun0323&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=10,904e65,904e95&title_color=fff&text_color=fff&hide_title=false"><br/>
+<a href="https://www.buymeacoffee.com/yanun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144.6px !important;" ></a>
 
+<img style="display=inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanun0323&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=10,904e65,904e95&title_color=fff&text_color=fff&hide_title=false"><br/><br/>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="yanun" data-color="#FF5F5F" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 <!-- <br/>
 <div>
