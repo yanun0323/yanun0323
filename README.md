@@ -1,7 +1,7 @@
 <div align=center>
 
 <h3 style="display:inline-block; font-size: 24px">Hello there, I'm Yanun</h3>
-<img style="display:inline-block" alt="" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>
+<img style="display:inline-block" alt="" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/><br/>
 
 <!-- About me -->
 <div align=center>
