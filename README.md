@@ -15,7 +15,7 @@
 <br/>
 <h3>Product</h3><div>
 
-<div style="background:rgb(35,35,35); padding:7px; border-radius:15px; width:400px; padding: 15px">
+<div style="background-color:#252525; padding:7px; border-radius:15px; width:400px; padding: 15px">
 <h3>DevStat</h3>
 <p>Menubar tool to translate time format for MacOS.</p>
 <img src="https://github.com/yanun0323/DevStat/blob/master/image.png?raw=true" height="300px"><br/><br/>
