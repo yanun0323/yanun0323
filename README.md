@@ -15,7 +15,7 @@
 <br/>
 <h3>Product</h3><div>
 <a href="https://github.com/yanun0323/DevStat">
-<img src="devstat.png">
+<img src="devstat.png" width="400px">
 </a>
 
 
