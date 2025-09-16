@@ -1,10 +1,10 @@
 <div align=center>
 
-<h3 style="display:inline-block">Hello there, I'm Yanun</h3>
+<h3 style="display:inline-block; font-size: 24px">Hello there, I'm Yanun</h3>
 <img style="display:inline-block" alt="" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>
 
 <!-- About me -->
-<div align=left>
+<div align=center>
 👨🏻‍💻 &nbsp;Backend engineer with three years of experience in developing core cryptocurrency exchange systems
 <br><br>
 💻 &nbsp;Passionate about building application to solve life problem.
@@ -13,7 +13,7 @@
 
 </div>
 <br/>
-<h3>Product</h3><div>
+<h3 style="font-size: 24px">Product</h3><div>
 <a href="https://github.com/yanun0323/DevStat">
 <img src="devstat.png" width="400px">
 </a>
@@ -23,7 +23,7 @@
 </div><br/>
 
 <!-- Footer -->
-#### &nbsp;How to reach me:
+<h3 style="font-size: 24px">How to reach me</h3>
 
 <a href="https://www.linkedin.com/in/yanun-yang-193487185/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:yanun0323@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
