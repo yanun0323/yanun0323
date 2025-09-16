@@ -5,7 +5,7 @@
 
 <!-- About me -->
 <div align=left>
-👨🏻‍💻 &nbsp;I'm cryptocurrency exchange backend engineer with three years of experience in developing core exchange systems
+👨🏻‍💻 &nbsp;Backend engineer with three years of experience in developing core cryptocurrency exchange systems
 <br><br>
 💻 &nbsp;Passionate about building application to solve life problem.
 
@@ -14,15 +14,9 @@
 </div>
 <br/>
 <h3>Product</h3><div>
-
-<div style="background-color:#252525; padding:7px; border: 1px solid gray; border-radius:15px; width:400px; padding: 15px">
-<h3>DevStat</h3>
-<p>Menubar tool to translate time format for MacOS.</p>
-<img src="https://github.com/yanun0323/DevStat/blob/master/image.png?raw=true" height="300px"><br/><br/>
-
-<a href="https://github.com/yanun0323/DevStat/releases/download/1.1.5/DevStat-1.1.5.zip"><img alt="" src="https://img.shields.io/badge/Download-v1.1.5-orange"/></a>&nbsp;
-</div>
-
+<a href="https://github.com/yanun0323/DevStat">
+<img src="devstat.png">
+</a>
 
 
 
