@@ -32,8 +32,6 @@
 
 <a href="https://www.buymeacoffee.com/yanun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144.6px !important;" ></a>
 
-<img style="display=inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanun0323&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=10,904e65,904e95&title_color=fff&text_color=fff&hide_title=false"><br/><br/>
-
 
 <!-- <br/>
 <div>
