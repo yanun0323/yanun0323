@@ -14,14 +14,16 @@
 </div>
 <br/>
 <h3>Product</h3>
-<div>
+<p>
     <a href="https://github.com/yanun0323/Whallm">
-        <img style="border-radius: 15px; overflow: hidden;" src="whallm_desc.png" width="200px">
+        <img src="whallm_desc.png" width="200px">
     </a>
+</p>
+<p>
     <a href="https://github.com/yanun0323/DevStat">
-        <img style="border-radius: 30px; overflow: hidden;" src="dev_stat_desc.png" width="200px">
+        <img src="dev_stat_desc.png" width="200px">
     </a>
-</div>
+</p>
 <br/>
 
 <!-- Footer -->
