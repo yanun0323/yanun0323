@@ -16,10 +16,10 @@
 <h3>Product</h3>
 <div>
     <a href="https://github.com/yanun0323/Whallm">
-        <img style="border-radius: 15px; overflow: hidden;" src="whallm.png" width="200px">
+        <img style="border-radius: 15px; overflow: hidden;" src="whallm_desc.png" width="200px">
     </a>
     <a href="https://github.com/yanun0323/DevStat">
-        <img style="border-radius: 30px; overflow: hidden;" src="dev_stat.png" width="200px">
+        <img style="border-radius: 30px; overflow: hidden;" src="dev_stat_desc.png" width="200px">
     </a>
 </div>
 <br/>
