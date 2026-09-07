@@ -15,18 +15,11 @@
 <br/>
 <h3>Product</h3>
 <div>
-    <a style="display: inline-block; vertical-align: top; color: inherit;" href="https://github.com/yanun0323/Whallm">
-        <h4>Whallm</h4>
-        <p style="color: gray">SSD-streamed LLM inference </br> for macOS.</p>
-        <div style="display: inline-block; padding: 70px 50px;">
-            <img style="border-radius: 15px;" src="whallm.png" width="100px">
-        </div>
+    <a href="https://github.com/yanun0323/Whallm">
+        <img style="border-radius: 15px; overflow: hidden;" src="whallm.png" width="200px">
     </a>
-    <div style="display: inline-block; width: 45px"></div>
-    <a style="display: inline-block; vertical-align: top; color: inherit;" href="https://github.com/yanun0323/DevStat">
-        <h4>DevStat</h4>
-        <p style="color: gray">MacOS menubar tool for </br> time format translation and OTP. </p>
-        <img src="dev_stat.png" width="200px">
+    <a href="https://github.com/yanun0323/DevStat">
+        <img style="border-radius: 30px; overflow: hidden;" src="dev_stat.png" width="200px">
     </a>
 </div>
 <br/>
