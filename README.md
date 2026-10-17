@@ -5,7 +5,7 @@
 
 <!-- About me -->
 <div align=center>
-👨🏻‍💻 &nbsp;Backend engineer with three years of experience in developing core cryptocurrency exchange systems
+👨🏻‍💻 &nbsp;Software engineer with five years of experience in developing core cryptocurrency exchange systems
 <br><br>
 💻 &nbsp;Passionate about building application to solve life problem.
 
